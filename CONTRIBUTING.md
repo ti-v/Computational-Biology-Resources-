@@ -80,7 +80,7 @@ Does the source need you to make an account (Registration Needed)
 ## Free! Free! Free Stuff!
 
 Your resources MUST be free to access. No money should be required. 
-They should be LEGALLY free, too. It's okay if it's got a "all rights reserved," but free to read. But if you're screenshotting a book you had to pay for...yikes.
+They should be LEGALLY free, too. It's okay if it's got an "all rights reserved," but it's free to read. But if you're screenshotting a book you had to pay for...yikes.
 Don't pirate! We love Creative Commons! Also the MIT license! Very cool very nice.
 
 ## So, What Even IS a PR?
