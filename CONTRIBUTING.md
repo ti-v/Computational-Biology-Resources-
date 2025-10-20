@@ -7,8 +7,9 @@ YAY!!! Here are a few ways you can contribute:
 - Adding a blog
 - Adding a course
 - Adding an article
-- Adding powerpoints 
-**Alternatively...**
+- Adding powerpoints
+- 
+### **Alternatively...**
 - Suggesting things to widen scope
 - Improving documentation
   
