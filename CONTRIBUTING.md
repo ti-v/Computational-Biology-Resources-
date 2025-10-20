@@ -70,12 +70,14 @@ Here's how to format your contribution
 
 Here are some tags I would like you to use:
 
-Is the source a PDF? - (PDF)
-Does the source involve you downloading things to your computer? - (Download)
-Is the source still being actively made? (WIP)
-Does the source need you to provide information, such as email? (Information Needed)
-Does the source need you to make an account (Registration Needed)
+- Is the source a PDF? - (PDF)
+- Does the source involve you downloading things to your computer? - (Download)
+- Is the source still being actively made? (WIP)
+- Does the source need you to provide information, such as email? (Information Needed)
+- Does the source need you to make an account (Registration Needed)
 * Make sure the account isn't a SUBSCRIPTION! Your PR WILL be rejected if it needs you to fork over money. That kind of defeats the point of this repo.
+
+Please alphabetize your entry! Thanks! :)
 
 ## Free! Free! Free Stuff!
 
