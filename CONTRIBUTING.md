@@ -63,6 +63,26 @@ plus we can work on it together :)
 
 Everything minor (adding new sections, adding a doc, fixing typos) can be in a PR.
 
+## Notation
+Here's how to format your contribution
+
+(Cool Resource)[coolresourcelink] - Author (Platform) (PDF) (Tag 1) (Tag 2)
+
+Here are some tags I would like you to use:
+
+Is the source a PDF? - (PDF)
+Does the source involve you downloading things to your computer? - (Download)
+Is the source still being actively made? (WIP)
+Does the source need you to provide information, such as email? (Information Needed)
+Does the source need you to make an account (Registration Needed)
+* Make sure the account isn't a SUBSCRIPTION! Your PR WILL be rejected if it needs you to fork over money. That kind of defeats the point of this repo.
+
+## Free! Free! Free Stuff!
+
+Your resources MUST be free to access. No money should be required. 
+They should be LEGALLY free, too. It's okay if it's got a "all rights reserved," but free to read. But if you're screenshotting a book you had to pay for...yikes.
+Don't pirate! We love Creative Commons! Also the MIT license! Very cool very nice.
+
 ## So, What Even IS a PR?
 
 Pull (or merge) requests means that someone is proposing changes to an open-source project. Those proposed contributions are than reviewed by a maintainer and, if approved, added to the project! 
