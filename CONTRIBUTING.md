@@ -64,7 +64,7 @@ plus we can work on it together :)
 
 Everything minor (adding new sections, adding a doc, fixing typos) can be in a PR.
 
-## Notation
+## Formatting
 Here's how to format your contribution
 
 (Cool Resource)[coolresourcelink] - Author (Platform) (PDF) (Tag 1) (Tag 2)
@@ -77,6 +77,12 @@ Here are some tags I would like you to use:
 - Does the source need you to provide information, such as email? (Information Needed)
 - Does the source need you to make an account (Registration Needed)
 * Make sure the account isn't a SUBSCRIPTION! Your PR WILL be rejected if it needs you to fork over money. That kind of defeats the point of this repo.
+
+### Spacing 
+Please make sure spacing is maintained! Here's the idea:
+- One space after the section header
+- No spaces between sources
+- Two spaces between the last source in a section and the next section
 
 Please alphabetize your entry! Thanks! :)
 
