@@ -1,5 +1,6 @@
 # So You Want to Contribute...
-
+- [Tiv's Definitions](Tiv's Definitions:)
+- 
 YAY!!! Here are a few ways you can contribute:
 - Adding a paper
 - Adding a book
