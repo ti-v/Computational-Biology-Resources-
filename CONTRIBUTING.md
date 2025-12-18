@@ -107,7 +107,7 @@ Pull (or merge) requests means that someone is proposing changes to an open-sour
 
 ## Formatting Your Contributions:
 Please put your contirbutions in alphabetical order! 
-[Content Name](Link) - Author 
+\[Content Name\]\(Link\) - Author
 They need to be FREE to access! Please tryyy and refrain from downloads. If they do include downloads, try to make sure the source is safe.
 
 
