@@ -97,15 +97,15 @@ Don't pirate! We love Creative Commons! Also the MIT license! Very cool very nic
 
 Pull (or merge) requests means that someone is proposing changes to an open-source project. Those proposed contributions are than reviewed by a maintainer and, if approved, added to the project! 
 
-Now, I'm not sure how to do this via Git (hey, free PR people), but I do know how to do this via the website "GitHub"
-
 1) Fork the PR
 2) Make your OWN BRANCH, please
 3) Make you changes by opening one of the files and doing whatever
 4) Commit your changes
 5) Make a pull request via the pull request tab
 
-I'll probably included screenshots or something like that later. Depends. Most contributions you'll make to this project probably won't require you to use Git or download anything.
+
+
+
 
 **Happy Contributing!**
 
