@@ -9,6 +9,6 @@ This repo was inspired by free programming books, which is also a repo hosted on
 **About Hacktoberfest:** I'll try to get this repo on Hacktoberfest, but I doubt they'd accept this repo as it is right now. If they do, great! I'd love to get people who can actually code (unlike me) 
 to hopefully make a coded website for this one day :) (Either that, or maybe I learn how to code...)
 
-**Want to Contribute?:** Please read (contributing) for more details! 
+**Want to Contribute?:** Please read [contributing](CONTRIBUTING.md) for more details! 
 
 
