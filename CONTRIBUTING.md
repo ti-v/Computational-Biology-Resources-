@@ -102,6 +102,13 @@ Pull (or merge) requests means that someone is proposing changes to an open-sour
 3) Make you changes by opening one of the files and doing whatever
 4) Commit your changes
 5) Make a pull request via the pull request tab
+6) 
+
+
+## Formatting Your Contributions:
+Please put your contirbutions in alphabetical order! 
+[Content Name](Link) - Author 
+They need to be FREE to access! Please tryyy and refrain from downloads. If they do include downloads, try to make sure the source is safe.
 
 
 
